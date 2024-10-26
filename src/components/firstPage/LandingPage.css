@@ -1,0 +1,314 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+
+.landing-page {
+   font-family: "Montserrat", sans-serif; /* Применяем шрифт Montserrat */
+   color: #333;
+   background: #f5f5f5;
+   position: relative;
+   padding: 10px;
+}
+
+.landing-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px 40px;
+   background-color: #fff;
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+   font-size: 24px;
+   font-weight: bold;
+   color: #ff6b6b;
+}
+
+/* Стили для выравнивания навигационных ссылок */
+.nav-links {
+   list-style: none;
+   display: flex;
+   gap: 20px; /* Промежуток между ссылками */
+   align-items: center; /* Выравнивание элементов по вертикали */
+   padding: 0;
+   margin: 0;
+   height: 100%; /* Убедимся, что высота списка занимает 100% контейнера */
+}
+
+.nav-links a {
+   text-decoration: none;
+   color: #333;
+   font-size: 1rem; /* Единый размер шрифта */
+   display: flex;
+   align-items: center; /* Выравнивание текста внутри ссылки по вертикали */
+   padding: 10px 15px; /* Добавляем отступы внутри ссылок */
+   height: 100%; /* Ссылки занимают всю высоту контейнера */
+   box-sizing: border-box; /* Учитываем padding в размер элементов */
+}
+
+.signup-button {
+   font-family: "Montserrat", sans-serif; /* Применяем шрифт Montserrat */
+
+   background-color: #ff6b6b;
+   color: #fff;
+   border: none;
+   padding: 10px 20px;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: background-color 0.3s;
+}
+
+.signup-button:hover {
+   background-color: #ff4d4d;
+   color: white;
+}
+
+.hero-section {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 50px 80px;
+   background: linear-gradient(to right, #f8f9fa, #fff);
+   position: relative;
+}
+
+.hero-content {
+   max-width: 50%;
+}
+
+.hero-content h2 {
+   font-size: 48px;
+   line-height: 1.2;
+}
+
+.hero-content p {
+   margin-top: 20px;
+   font-size: 16px;
+   color: #555;
+}
+
+.hero-buttons {
+   margin-top: 20px;
+   font-family: "Montserrat", sans-serif; /* Применяем шрифт Montserrat */
+}
+
+.primary-button {
+   background-color: #ff6b6b;
+   color: #fff;
+   border: none;
+   padding: 10px 20px;
+   margin-right: 10px;
+   cursor: pointer;
+   border-radius: 5px;
+   font-family: "Montserrat", sans-serif; /* Применяем шрифт Montserrat */
+}
+
+.secondary-button {
+   background-color: transparent;
+   color: #ff6b6b;
+   border: 2px solid #ff6b6b;
+   padding: 10px 20px;
+   cursor: pointer;
+   border-radius: 5px;
+   font-family: "Montserrat", sans-serif;
+}
+
+.secondary-button:hover {
+   color: #fff;
+}
+
+.hero-image {
+   width: 40%;
+   border-radius: 10px;
+}
+
+.features {
+   display: flex;
+   justify-content: space-around;
+   padding: 40px 80px;
+   background-color: #f0f4f8;
+}
+
+.feature {
+   text-align: center;
+   max-width: 200px;
+}
+
+.circle-icon {
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   background-color: #ff6b6b;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #fff;
+   font-size: 24px;
+   margin: 0 auto 20px;
+}
+
+.testimonials {
+   padding: 50px 80px;
+   background-color: #fff;
+}
+
+.testimonial {
+   max-width: 400px;
+   margin-bottom: 30px;
+}
+
+.testimonial p {
+   font-size: 16px;
+   color: #666;
+}
+
+.testimonial span {
+   display: block;
+   margin-top: 10px;
+   font-style: italic;
+   color: #999;
+}
+
+/* Стили для секции "Наши услуги" */
+.services {
+   background-color: #f9f9f9;
+   padding: 20px 40px;
+}
+
+.service {
+   padding: 0 20px;
+}
+
+.service h3 {
+   font-weight: bold;
+   color: #333;
+}
+
+/* Стили для секции "Полезные статьи и советы" */
+.blog {
+   background-color: #f9f9f9;
+   padding: 20px 40px;
+}
+
+.blog-post {
+   padding: 0 20px;
+}
+
+.blog-post p:hover {
+   color: #ff6b6b;
+   text-decoration: underline;
+}
+
+.blog-post h3 {
+   font-weight: bold;
+   color: #333;
+}
+
+/* Стили для секции "Часто задаваемые вопросы" */
+.faq {
+   background-color: #f9f9f9;
+   padding: 20px 40px;
+}
+
+.faq-item {
+   margin-bottom: 20px;
+   padding: 20px;
+   border: 1px solid #ddd;
+   border-radius: 8px;
+   transition: transform 0.3s, box-shadow 0.3s;
+   margin-bottom: 20px;
+}
+
+.faq-item:hover {
+   transform: translateY(-5px);
+   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.faq-item h3 {
+   font-weight: bold;
+   color: #333;
+   margin-bottom: 10px;
+}
+
+/* Стили для секции "Отзывы" */
+.reviews {
+   display: flex;
+   overflow-x: auto; /* Оставляем горизонтальную прокрутку */
+   scroll-snap-type: x mandatory;
+   padding-bottom: 10px;
+}
+
+.testimonial {
+   flex: 0 0 auto; /* Это важно, чтобы элементы не сжимались */
+   width: 300px;
+   margin-right: 20px;
+   padding: 20px;
+   border: 1px solid #ddd;
+   border-radius: 8px;
+   scroll-snap-align: start;
+   transition: transform 0.3s, box-shadow 0.3s;
+   white-space: normal; /* Позволяет тексту переноситься */
+}
+
+.testimonial:hover {
+   transform: translateY(-5px);
+   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial p {
+   font-style: italic;
+   color: #444;
+}
+
+.testimonial span {
+   display: block;
+   margin-top: 10px;
+   font-size: 14px;
+   color: #777;
+}
+
+/* Прячем горизонтальную полосу прокрутки (необязательно) */
+.reviews::-webkit-scrollbar {
+   display: none;
+}
+
+/* Стили для секции "Свяжитесь с нами" */
+.contact {
+   padding: 10px;
+   background-color: #fff;
+   text-align: center;
+}
+
+.contact-form {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 15px;
+   max-width: 500px;
+   margin: 0 auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+   width: 100%;
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   resize: vertical;
+   background-color: #fff;
+   color: #333;
+}
+
+.contact-button {
+   background-color: #ff6b6b;
+   color: #fff;
+   border: none;
+   padding: 10px 30px;
+   cursor: pointer;
+   border-radius: 5px;
+   transition: background-color 0.3s;
+}
+
+.contact-button:hover {
+   background-color: #e53935;
+   color: white;
+}

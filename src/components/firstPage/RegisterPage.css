@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+
+.register-page {
+   font-family: "Montserrat", sans-serif; 
+   max-width: 500px;
+   margin: 0 auto;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   background-color: #f9f9f9;
+}
+
+.register-page h2 {
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.register-page div {
+   margin-bottom: 15px;
+}
+
+.register-page label {
+   display: block;
+   font-weight: bold;
+   margin-bottom: 5px;
+}
+
+.register-page input,
+.register-page textarea,
+.register-page select {
+   width: 95%;
+   padding: 10px;
+   margin-top: 5px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+}
+
+.register-page select {
+   width: 99%;
+   padding: 10px;
+   margin-top: 5px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+}
+
+.register-page textarea {
+   resize: vertical;
+   height: 100px;
+}
+
+.register-page button {
+   width: 100%;
+   padding: 10px;
+   background-color: #4caf50;
+   color: white;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   margin-top: 10px;
+}
+
+.register-page button:hover {
+   background-color: #45a049;
+}
+
+.register-page a {
+   color: #007bff;
+   text-decoration: none;
+}
+
+.register-page a:hover {
+   text-decoration: underline;
+}
+
+.error {
+   color: red;
+   font-size: 12px;
+   margin-top: 5px;
+}

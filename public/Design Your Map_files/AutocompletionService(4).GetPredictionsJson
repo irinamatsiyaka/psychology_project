@@ -1,0 +1,288 @@
+/**/_xdc_._x6xvt8 && _xdc_._x6xvt8( {
+   "predictions" : 
+   [
+      {
+         "description" : "Minsk, Belarus",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            },
+            {
+               "length" : 2,
+               "offset" : 7
+            }
+         ],
+         "place_id" : "ChIJ02oeW9PP20YR2XC13VO4YQs",
+         "reference" : "ChIJ02oeW9PP20YR2XC13VO4YQs",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Belarus",
+            "secondary_text_matched_substrings" : 
+            [
+               {
+                  "length" : 2,
+                  "offset" : 0
+               }
+            ]
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk"
+            },
+            {
+               "offset" : 7,
+               "value" : "Belarus"
+            }
+         ],
+         "types" : 
+         [
+            "political",
+            "geocode",
+            "locality"
+         ]
+      },
+      {
+         "description" : "Minsk Belarus, улица Парниковая, Минск, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 8,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ16wu93HP20YRMOx5nyz8FxI",
+         "reference" : "ChIJ16wu93HP20YRMOx5nyz8FxI",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk Belarus",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 8,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "улица Парниковая, Минск, Беларусь"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk Belarus"
+            },
+            {
+               "offset" : 15,
+               "value" : "улица Парниковая"
+            },
+            {
+               "offset" : 33,
+               "value" : "Минск"
+            },
+            {
+               "offset" : 40,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "description" : "Belarusian State University, проспект Независимости, Minsk, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 2,
+               "offset" : 0
+            },
+            {
+               "length" : 5,
+               "offset" : 53
+            }
+         ],
+         "place_id" : "ChIJVUqIm-fP20YRj5roNMigAqg",
+         "reference" : "ChIJVUqIm-fP20YRj5roNMigAqg",
+         "structured_formatting" : 
+         {
+            "main_text" : "Belarusian State University",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 2,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "проспект Независимости, Minsk, Беларусь",
+            "secondary_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 24
+               }
+            ]
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Belarusian State University"
+            },
+            {
+               "offset" : 29,
+               "value" : "проспект Независимости"
+            },
+            {
+               "offset" : 53,
+               "value" : "Minsk"
+            },
+            {
+               "offset" : 60,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "university"
+         ]
+      },
+      {
+         "description" : "Beijing Hotel, улица Красноармейская, Minsk, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 2,
+               "offset" : 0
+            },
+            {
+               "length" : 5,
+               "offset" : 38
+            }
+         ],
+         "place_id" : "ChIJLTi8K8zP20YR8aTM1aNNTLc",
+         "reference" : "ChIJLTi8K8zP20YR8aTM1aNNTLc",
+         "structured_formatting" : 
+         {
+            "main_text" : "Beijing Hotel",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 2,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "улица Красноармейская, Minsk, Беларусь",
+            "secondary_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 23
+               }
+            ]
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Beijing Hotel"
+            },
+            {
+               "offset" : 15,
+               "value" : "улица Красноармейская"
+            },
+            {
+               "offset" : 38,
+               "value" : "Minsk"
+            },
+            {
+               "offset" : 45,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "lodging"
+         ]
+      },
+      {
+         "description" : "Bergamo, улица Кульман, Minsk, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 2,
+               "offset" : 0
+            },
+            {
+               "length" : 5,
+               "offset" : 24
+            }
+         ],
+         "place_id" : "ChIJYYh1NZ3P20YRzAZD_IEzJHY",
+         "reference" : "ChIJYYh1NZ3P20YRzAZD_IEzJHY",
+         "structured_formatting" : 
+         {
+            "main_text" : "Bergamo",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 2,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "улица Кульман, Minsk, Беларусь",
+            "secondary_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 15
+               }
+            ]
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Bergamo"
+            },
+            {
+               "offset" : 9,
+               "value" : "улица Кульман"
+            },
+            {
+               "offset" : 24,
+               "value" : "Minsk"
+            },
+            {
+               "offset" : 31,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "establishment",
+            "restaurant",
+            "food",
+            "point_of_interest"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )

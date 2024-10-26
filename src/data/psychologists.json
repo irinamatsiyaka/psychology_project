@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1",
+    "name": "Елена Рыбалко",
+    "specialization": "Семейный психолог",
+    "experience": 14,
+    "methods": [
+      "Гештальт",
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Минск / Онлайн",
+    "pricePerSession": 3500,
+    "description": "Елена специализируется на работе с семейными и партнерскими отношениями, помогает решать конфликты и трудности в общении.",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Ольга Денисова",
+    "specialization": "Клинический психолог",
+    "experience": 4,
+    "methods": [
+      "Гештальт",
+      "Психоанализ"
+    ],
+    "location": "Санкт-Петербург / Онлайн",
+    "pricePerSession": 4000,
+    "description": "Ольга помогает клиентам справляться с эмоциональными трудностями, работает с мотивацией и принятием решений.",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Любовь Зубко",
+    "specialization": "Семейный психолог",
+    "experience": 7,
+    "methods": [
+      "Эмоционально-фокусированная терапия"
+    ],
+    "location": "Москва / Онлайн",
+    "pricePerSession": 3000,
+    "description": "Любовь работает с парами и семьями, помогает выстраивать здоровые отношения и решать конфликты.",
+    "image": "https://randomuser.me/api/portraits/women/46.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Анна Белова",
+    "specialization": "Детский психолог",
+    "experience": 10,
+    "methods": [
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Новосибирск / Онлайн",
+    "pricePerSession": 3200,
+    "description": "Анна помогает детям справляться с эмоциональными трудностями и развивать уверенность в себе.",
+    "image": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Мария Иванова",
+    "specialization": "Когнитивно-поведенческий терапевт",
+    "experience": 8,
+    "methods": [
+      "Когнитивная терапия",
+      "Гештальт"
+    ],
+    "location": "Краснодар / Онлайн",
+    "pricePerSession": 3700,
+    "description": "Мария работает с клиентами, помогая им преодолеть тревожные состояния и стресс.",
+    "image": "https://randomuser.me/api/portraits/women/48.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Александр Смирнов",
+    "specialization": "Клинический психолог",
+    "experience": 15,
+    "methods": [
+      "Психоанализ",
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Екатеринбург / Онлайн",
+    "pricePerSession": 4500,
+    "description": "Александр специализируется на работе с глубокими психологическими травмами и депрессией.",
+    "image": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Олег Кузнецов",
+    "specialization": "Семейный психолог",
+    "experience": 12,
+    "methods": [
+      "Гештальт",
+      "Эмоционально-фокусированная терапия"
+    ],
+    "location": "Самара / Онлайн",
+    "pricePerSession": 3800,
+    "description": "Олег помогает парам и семьям улучшить взаимоотношения и справляться с конфликтами.",
+    "image": "https://randomuser.me/api/portraits/men/47.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Дарья Волкова",
+    "specialization": "Психолог поддержки",
+    "experience": 6,
+    "methods": [
+      "Терапия активацией"
+    ],
+    "location": "Москва / Онлайн",
+    "pricePerSession": 2900,
+    "description": "Дарья помогает клиентам справляться с жизненными трудностями и восстановить уверенность в себе.",
+    "image": "https://randomuser.me/api/portraits/women/49.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Евгения Сидорова",
+    "specialization": "Клинический психолог",
+    "experience": 9,
+    "methods": [
+      "Когнитивно-поведенческая терапия",
+      "Психоанализ"
+    ],
+    "location": "Воронеж / Онлайн",
+    "pricePerSession": 3600,
+    "description": "Евгения помогает своим клиентам справляться с депрессией и тревогой.",
+    "image": "https://randomuser.me/api/portraits/women/50.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Иван Петров",
+    "specialization": "Семейный психолог",
+    "experience": 11,
+    "methods": [
+      "Эмоционально-фокусированная терапия"
+    ],
+    "location": "Казань / Онлайн",
+    "pricePerSession": 3400,
+    "description": "Иван помогает семьям и парам выстраивать здоровые отношения и преодолевать трудности.",
+    "image": "https://randomuser.me/api/portraits/men/48.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Оксана Ковалева",
+    "specialization": "Психолог поддержки",
+    "experience": 5,
+    "methods": [
+      "Гештальт",
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Челябинск / Онлайн",
+    "pricePerSession": 3100,
+    "description": "Оксана специализируется на поддержке людей в сложных жизненных ситуациях.",
+    "image": "https://randomuser.me/api/portraits/women/51.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Сергей Павлов",
+    "specialization": "Клинический психолог",
+    "experience": 13,
+    "methods": [
+      "Психоанализ",
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Нижний Новгород / Онлайн",
+    "pricePerSession": 4000,
+    "description": "Сергей помогает клиентам справляться с глубинными психологическими проблемами.",
+    "image": "https://randomuser.me/api/portraits/men/49.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Марина Фролова",
+    "specialization": "Семейный психолог",
+    "experience": 9,
+    "methods": [
+      "Гештальт",
+      "Эмоционально-фокусированная терапия"
+    ],
+    "location": "Ростов-на-Дону / Онлайн",
+    "pricePerSession": 3700,
+    "description": "Марина работает с парами и семьями, помогая им решать конфликты и улучшать взаимопонимание.",
+    "image": "https://randomuser.me/api/portraits/women/52.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Виктор Романов",
+    "specialization": "Когнитивно-поведенческий терапевт",
+    "experience": 16,
+    "methods": [
+      "Когнитивная терапия",
+      "Терапия активацией"
+    ],
+    "location": "Красноярск / Онлайн",
+    "pricePerSession": 4200,
+    "description": "Виктор помогает своим клиентам справляться с тревогой, страхами и стрессом.",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Наталья Лебедева",
+    "specialization": "Психолог поддержки",
+    "experience": 7,
+    "methods": [
+      "Терапия активацией"
+    ],
+    "location": "Владивосток / Онлайн",
+    "pricePerSession": 3000,
+    "description": "Наталья помогает своим клиентам находить внутренние ресурсы для преодоления сложных ситуаций.",
+    "image": "https://randomuser.me/api/portraits/women/53.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Андрей Соколов",
+    "specialization": "Клинический психолог",
+    "experience": 20,
+    "methods": [
+      "Психоанализ",
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Саратов / Онлайн",
+    "pricePerSession": 4500,
+    "description": "Андрей специализируется на работе с тяжелыми случаями депрессии и тревожных расстройств.",
+    "image": "https://randomuser.me/api/portraits/men/51.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Екатерина Соколова",
+    "specialization": "Детский психолог",
+    "experience": 11,
+    "methods": [
+      "Игровая терапия",
+      "Когнитивно-поведенческая терапия"
+    ],
+    "location": "Москва / Онлайн",
+    "pricePerSession": 3800,
+    "description": "Екатерина работает с детьми, помогая им преодолевать эмоциональные трудности.",
+    "image": "https://randomuser.me/api/portraits/women/54.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Валентина Попова",
+    "specialization": "Клинический психолог",
+    "experience": 18,
+    "methods": [
+      "Психоанализ",
+      "Когнитивная терапия"
+    ],
+    "location": "Уфа / Онлайн",
+    "pricePerSession": 4200,
+    "description": "Валентина работает с клиентами, помогая им справляться с эмоциональными и психологическими травмами.",
+    "image": "https://randomuser.me/api/portraits/women/55.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Константин Миронов",
+    "specialization": "Семейный психолог",
+    "experience": 10,
+    "methods": [
+      "Эмоционально-фокусированная терапия",
+      "Гештальт"
+    ],
+    "location": "Пермь / Онлайн",
+    "pricePerSession": 3600,
+    "description": "Константин помогает семьям находить общий язык и решать внутренние конфликты.",
+    "image": "https://randomuser.me/api/portraits/men/52.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Ирина Щукина",
+    "specialization": "Когнитивно-поведенческий терапевт",
+    "experience": 5,
+    "methods": [
+      "Когнитивная терапия",
+      "Терапия активацией"
+    ],
+    "location": "Сочи / Онлайн",
+    "pricePerSession": 3300,
+    "description": "Ирина помогает клиентам справляться с тревогой, страхами и развивать навыки уверенности в себе.",
+    "image": "https://randomuser.me/api/portraits/women/56.jpg"
+  },
+  {
+    "id": "18632780-a451-4241-8392-457d1946a58a",
+    "name": "Кот",
+    "specialization": "Котik",
+    "experience": 22,
+    "methods": "Мурррррр",
+    "location": "Онлайн Минск",
+    "pricePerSession": 1000,
+    "description": "Муррр",
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": "8cfb1866-2917-40ea-8c13-6ed43c0999ae",
+    "name": "cat",
+    "specialization": "cat",
+    "experience": 12,
+    "methods": [
+      "cat"
+    ],
+    "location": "cat",
+    "pricePerSession": 996,
+    "description": "c",
+    "image": "c"
+  },
+  {
+    "id": "e0c8483a-d0d2-4143-8c37-1fad0e5a476e",
+    "name": "caT",
+    "specialization": "cat",
+    "experience": "24",
+    "methods": [
+      "cat"
+    ],
+    "location": "234",
+    "pricePerSession": 996,
+    "description": "ghjk",
+    "image": "https://avatars.mds.yandex.net/get-shedevrum/9283310/532659c2b31c11eeb3f44288c7f1f5c6/orig"
+  },
+  {
+    "id": "7b8185ed-7cf1-4747-b57b-b9d85e9b26af",
+    "name": "G",
+    "specialization": "22",
+    "experience": 18,
+    "methods": [
+      "22"
+    ],
+    "location": "22",
+    "pricePerSession": 22,
+    "description": "22",
+    "image": "https://icdn.lenta.ru/images/2024/06/07/11/20240607114026821/square_1280_066237bac36c2bf155384182fdba1fa7.jpeg"
+  }
+]

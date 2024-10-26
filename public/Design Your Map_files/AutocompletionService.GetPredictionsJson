@@ -1,0 +1,228 @@
+/**/_xdc_._tpxc8g && _xdc_._tpxc8g( {
+   "predictions" : 
+   [
+      {
+         "description" : "Mińsk Mazowiecki, Польша",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJGX0QdiosH0cRwW7bopB9x0w",
+         "reference" : "ChIJGX0QdiosH0cRwW7bopB9x0w",
+         "structured_formatting" : 
+         {
+            "main_text" : "Mińsk Mazowiecki",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Польша"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Mińsk Mazowiecki"
+            },
+            {
+               "offset" : 18,
+               "value" : "Польша"
+            }
+         ],
+         "types" : 
+         [
+            "geocode",
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "description" : "Minsk, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ02oeW9PP20YR2XC13VO4YQs",
+         "reference" : "ChIJ02oeW9PP20YR2XC13VO4YQs",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Беларусь"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk"
+            },
+            {
+               "offset" : 7,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "political",
+            "locality",
+            "geocode"
+         ]
+      },
+      {
+         "description" : "Minskoff Theatre, West 45th Street, Нью-Йорк, США",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJB4cC_1RYwokRu6mRBD_lqO8",
+         "reference" : "ChIJB4cC_1RYwokRu6mRBD_lqO8",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minskoff Theatre",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "West 45th Street, Нью-Йорк, США"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minskoff Theatre"
+            },
+            {
+               "offset" : 18,
+               "value" : "West 45th Street"
+            },
+            {
+               "offset" : 36,
+               "value" : "Нью-Йорк"
+            },
+            {
+               "offset" : 46,
+               "value" : "США"
+            }
+         ],
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "description" : "Mińska, Варшава, Польша",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "EiVNacWEc2thLCDQktCw0YDRiNCw0LLQsCwg0J_QvtC70YzRiNCwIi4qLAoUChIJB6c0i7XNHkcREhl93PyNlysSFAoSCQGfhppmzB5HEfzT6ogqvvBy",
+         "reference" : "EiVNacWEc2thLCDQktCw0YDRiNCw0LLQsCwg0J_QvtC70YzRiNCwIi4qLAoUChIJB6c0i7XNHkcREhl93PyNlysSFAoSCQGfhppmzB5HEfzT6ogqvvBy",
+         "structured_formatting" : 
+         {
+            "main_text" : "Mińska",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Варшава, Польша"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Mińska"
+            },
+            {
+               "offset" : 8,
+               "value" : "Варшава"
+            },
+            {
+               "offset" : 17,
+               "value" : "Польша"
+            }
+         ],
+         "types" : 
+         [
+            "route",
+            "geocode"
+         ]
+      },
+      {
+         "description" : "Mińska 65, Mińska, Варшава, Польша",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJS6d_icnNHkcRfJCG2vxwvWI",
+         "reference" : "ChIJS6d_icnNHkcRfJCG2vxwvWI",
+         "structured_formatting" : 
+         {
+            "main_text" : "Mińska 65",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Mińska, Варшава, Польша"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Mińska 65"
+            },
+            {
+               "offset" : 11,
+               "value" : "Mińska"
+            },
+            {
+               "offset" : 19,
+               "value" : "Варшава"
+            },
+            {
+               "offset" : 28,
+               "value" : "Польша"
+            }
+         ],
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )

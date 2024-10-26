@@ -1,0 +1,223 @@
+/**/_xdc_._kymp1v && _xdc_._kymp1v( {
+   "predictions" : 
+   [
+      {
+         "description" : "Mińsk Mazowiecki, Польша",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJGX0QdiosH0cRwW7bopB9x0w",
+         "reference" : "ChIJGX0QdiosH0cRwW7bopB9x0w",
+         "structured_formatting" : 
+         {
+            "main_text" : "Mińsk Mazowiecki",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Польша"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Mińsk Mazowiecki"
+            },
+            {
+               "offset" : 18,
+               "value" : "Польша"
+            }
+         ],
+         "types" : 
+         [
+            "locality",
+            "geocode",
+            "political"
+         ]
+      },
+      {
+         "description" : "Minsk, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ02oeW9PP20YR2XC13VO4YQs",
+         "reference" : "ChIJ02oeW9PP20YR2XC13VO4YQs",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Беларусь"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk"
+            },
+            {
+               "offset" : 7,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "locality",
+            "political",
+            "geocode"
+         ]
+      },
+      {
+         "description" : "Minsk City Mall, улица Толстого, Минск, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJH8XlfSnP20YRhJcm08IMcNA",
+         "reference" : "ChIJH8XlfSnP20YRhJcm08IMcNA",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk City Mall",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "улица Толстого, Минск, Беларусь"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk City Mall"
+            },
+            {
+               "offset" : 17,
+               "value" : "улица Толстого"
+            },
+            {
+               "offset" : 33,
+               "value" : "Минск"
+            },
+            {
+               "offset" : 40,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "establishment",
+            "shopping_mall",
+            "point_of_interest"
+         ]
+      },
+      {
+         "description" : "Minsk Region, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ4w7XKTHO20YRgIzsgdGhAAE",
+         "reference" : "ChIJ4w7XKTHO20YRgIzsgdGhAAE",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk Region",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Беларусь"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk Region"
+            },
+            {
+               "offset" : 14,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "administrative_area_level_1",
+            "geocode",
+            "political"
+         ]
+      },
+      {
+         "description" : "Minsk International Airport, Минск, Беларусь",
+         "matched_substrings" : 
+         [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJ6ayKW4w22kYRrgzvvXxutBA",
+         "reference" : "ChIJ6ayKW4w22kYRrgzvvXxutBA",
+         "structured_formatting" : 
+         {
+            "main_text" : "Minsk International Airport",
+            "main_text_matched_substrings" : 
+            [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Минск, Беларусь"
+         },
+         "terms" : 
+         [
+            {
+               "offset" : 0,
+               "value" : "Minsk International Airport"
+            },
+            {
+               "offset" : 29,
+               "value" : "Минск"
+            },
+            {
+               "offset" : 36,
+               "value" : "Беларусь"
+            }
+         ],
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "airport"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )

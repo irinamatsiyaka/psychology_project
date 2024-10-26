@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+
+.chat-container {
+   font-family: "Montserrat", sans-serif;
+
+   display: flex;
+   flex-direction: column;
+   height: 100%;
+   width: 100%;
+}
+
+.chat-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+   background-color: #f1f1f1;
+   border-bottom: 1px solid #ddd;
+}
+
+.chat-header button {
+   font-family: "Montserrat", sans-serif;
+}
+
+.chat-messages {
+   flex-grow: 1;
+   padding: 10px;
+   overflow-y: auto;
+}
+
+.message {
+   padding: 10px;
+   margin-bottom: 10px;
+   border-radius: 10px;
+   max-width: 70%;
+}
+
+.message-client {
+   background-color: #d1e7dd;
+   margin-left: auto;
+   text-align: right;
+}
+
+.message-psychologist {
+   background-color: #f8d7da;
+   margin-right: auto;
+   text-align: left;
+}
+
+.chat-input {
+   display: flex;
+   padding: 10px;
+   border-top: 1px solid #ddd;
+   background-color: #f1f1f1;
+}
+
+.chat-input input {
+   flex-grow: 1;
+   padding: 10px;
+   border: 1px solid #ddd;
+   border-radius: 5px;
+   margin-right: 10px;
+}
+
+.chat-input button {
+   padding: 10px 20px;
+   background-color: #007bff;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   font-family: "Montserrat", sans-serif;
+}
+
+.chat-input button:hover {
+   background-color: #0056b3;
+}
